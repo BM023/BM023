@@ -30,9 +30,9 @@
 ---
 
 ## 🔧 Featured projects
-### [Portfolio Website](https://github.com/BM023/PersonalPortfolio)
+### [Portfolio Website](https://github.com/BM023/MyPortfolio)
 A personal that documents my journey in the tech space thus far. 
-**Tech:** React · Vite · Tailwind · Netlify
+**Tech:** React · Vite · Tailwind · React · Vercel · HTML · CSS · JavaScript 
 
 ### [MuseMind](https://github.com/BM023/AIPoemGenerator)
 AI-powered poem generator that transforms your thoughts and emotions into expressive poetry. Choose from one of the three themes - LoveLines, SoulScript, and MoodVerse - input your feelings, and let AI translate emotion into thoughtful art.  

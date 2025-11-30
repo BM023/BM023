@@ -1,3 +1,5 @@
+![Banner](Grey%20Minimalist%20Corporate%20Personal%20Profile%20LinkedIn%20Banner-2.png)
+
 ## Hi there, I'm Boikanyo 👋
 **Aspiring Data Scientist • Former Health Science Researcher • Front-end tinkerer**
 

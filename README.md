@@ -1,6 +1,10 @@
 ![Banner](Grey%20Minimalist%20Corporate%20Personal%20Profile%20LinkedIn%20Banner-2.png)
 
 ## Hi there, I'm Boikanyo 👋
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=4A7D8A&center=true&vCenter=true&lines=Hi+there,+I+am+Boikanyo+👋;Welcome+to+my+GitHub+Profile!" />
+</p>
+
 **Aspiring Data Scientist • Former Health Science Researcher • Front-end tinkerer**
 
 📍 Johannesburg/Pretoria, South Africa   
@@ -65,3 +69,6 @@ AI-powered platform for CV evaluation and career recommendation.
 
 ## 📫 Connect with me
 Email: boikanyo.m0040@icloud.com
+
+
+![Snake animation](https://github.com/BM023/BM023/blob/output/github-contribution-grid-snake.svg)

@@ -2,7 +2,7 @@
 
 ## Hi there, I'm Boikanyo 👋
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=4A7D8A&center=true&vCenter=true&lines=Hi+there,+I+am+Boikanyo+👋;Welcome+to+my+GitHub+Profile!" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=4A7D8A&center=true&vCenter=true&lines=Hi+there,+I+am+Boikanyo+👋;=Welcome+to+my+GitHub+Profile!" />
 </p>
 
 **Aspiring Data Scientist • Former Health Science Researcher • Front-end tinkerer**

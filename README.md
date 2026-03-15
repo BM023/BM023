@@ -17,7 +17,7 @@
 
 
 
-**Aspiring Data Engineer • Former Health Science Researcher • Full-strack tinkerer**
+**Business & Data Analyst • Data Engineer • Full-strack tinkerer**
 
 📍 Johannesburg/Pretoria, South Africa   
 🌱 Currently learning: ETL and Data Pipelines with Shell, Airflow and Kafka, DevOps, AI/ML, reproducible data pipelines  
